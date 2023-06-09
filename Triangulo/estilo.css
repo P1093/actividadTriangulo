@@ -1,0 +1,29 @@
+table{
+    display: flex;
+    justify-content: center;
+
+}
+h1{
+    display: flex;
+    justify-content: center;
+   
+}
+.mover{
+    margin-top: 12px;
+    margin-left: 500px;
+    margin-right: 14px;
+}
+.otro{
+    margin-right: 14px;
+    border-width: 2px;
+    border-color: black;
+}
+*{
+    border-width: 2px;
+    border-color: black;}
+body{
+     background-color: rgb(116, 70, 10);
+}
+
+
+        
